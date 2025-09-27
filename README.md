@@ -1,6 +1,8 @@
 #🚁 Simulador de Encomendas em Drone Sistema completo de simulação de entregas por drones com otimização inteligente de rotas.
 
-🚀 Tecnologias Backend: Node.js + Express
+##🚀 Tecnologias
+
+Backend: Node.js + Express
 
 Frontend: React + Vite
 
